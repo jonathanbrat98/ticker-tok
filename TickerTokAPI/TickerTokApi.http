@@ -1,0 +1,6 @@
+@TickerTokApi_HostAddress = http://localhost:5023
+
+GET {{TickerTokApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
