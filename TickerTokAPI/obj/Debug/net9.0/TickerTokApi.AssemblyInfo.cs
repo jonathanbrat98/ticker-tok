@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TickerTokApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+686840efb5664821e9024cdfcfde9913f5d9c6eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d3aa18ee0ec124eaf8e3de72dd25e67703874e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("TickerTokApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TickerTokApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
